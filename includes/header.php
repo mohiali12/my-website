@@ -23,7 +23,7 @@
                         <li><a href="#skills" class="nav-link">Skills</a></li>
                         <li><a href="#projects" class="nav-link">Projects</a></li>
                         <li><a href="#contact" class="nav-link">Contact</a></li>
-                        <li><a href="assets/resume/Mohsin resume 22 .pdf" class="nav-link resume-btn" download="Mohsin_Resume.pdf" type="application/pdf"><i class="fas fa-download"></i> Resume</a></li>
+                        <li><a href="assets\resume\Mohsin resume 29 .pdf" class="nav-link resume-btn" download="Mohsin_Resume.pdf" type="application/pdf"><i class="fas fa-download"></i> Resume</a></li>
                     </ul>
                 </nav>
                 <div class="menu-toggle">

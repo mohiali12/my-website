@@ -79,7 +79,7 @@ include_once 'includes/header.php';
                         <div class="skill-bar">
                             <div class="skill-progress" style="width: 85%"></div>
                         </div>
-                        <span class="skill-percentage">80%</span>
+                        <span class="skill-percentage">65%</span>
                     </div>
                     <div class="skill-item">
                         <div class="skill-icon"><i class="fas fa-eye"></i></div>
@@ -87,7 +87,7 @@ include_once 'includes/header.php';
                         <div class="skill-bar">
                             <div class="skill-progress" style="width: 80%"></div>
                         </div>
-                        <span class="skill-percentage">85%</span>
+                        <span class="skill-percentage">78%</span>
                     </div>
                     <div class="skill-item">
                         <div class="skill-icon"><i class="fas fa-calculator"></i></div>
@@ -95,7 +95,7 @@ include_once 'includes/header.php';
                         <div class="skill-bar">
                             <div class="skill-progress" style="width: 90%"></div>
                         </div>
-                        <span class="skill-percentage">90%</span>
+                        <span class="skill-percentage">85%</span>
                     </div>
                     <div class="skill-item">
                         <div class="skill-icon"><i class="fas fa-table"></i></div>
@@ -103,11 +103,35 @@ include_once 'includes/header.php';
                         <div class="skill-bar">
                             <div class="skill-progress" style="width: 88%"></div>
                         </div>
-                        <span class="skill-percentage">88%</span>
+                        <span class="skill-percentage">75%</span>
+                    </div>
+                    <div class="skill-item">
+                        <div class="skill-icon"><i class="fas fa-filter"></i></div>
+                        <h3>scikit-learn</h3>
+                        <div class="skill-bar">
+                            <div class="skill-progress" style="width: 92%"></div>
+                        </div>
+                        <span class="skill-percentage">68%</span>
                     </div>
                     <div class="skill-item">
                         <div class="skill-icon"><i class="fas fa-filter"></i></div>
                         <h3>Data Preprocessing</h3>
+                        <div class="skill-bar">
+                            <div class="skill-progress" style="width: 92%"></div>
+                        </div>
+                        <span class="skill-percentage">90%</span>
+                    </div>
+                    <div class="skill-item">
+                        <div class="skill-icon"><i class="fas fa-filter"></i></div>
+                        <h3>Matplotlib</h3>
+                        <div class="skill-bar">
+                            <div class="skill-progress" style="width: 92%"></div>
+                        </div>
+                        <span class="skill-percentage">90%</span>
+                    </div>
+                    <div class="skill-item">
+                        <div class="skill-icon"><i class="fas fa-filter"></i></div>
+                        <h3>Mathematics</h3>
                         <div class="skill-bar">
                             <div class="skill-progress" style="width: 92%"></div>
                         </div>
@@ -121,7 +145,7 @@ include_once 'includes/header.php';
                 <div class="skills-container">
                     <div class="skill-item">
                         <div class="skill-icon"><i class="fab fa-html5"></i></div>
-                        <h3>HTML</h3>
+                        <h3>HTML5</h3>
                         <div class="skill-bar">
                             <div class="skill-progress" style="width: 95%"></div>
                         </div>
@@ -133,7 +157,7 @@ include_once 'includes/header.php';
                         <div class="skill-bar">
                             <div class="skill-progress" style="width: 90%"></div>
                         </div>
-                        <span class="skill-percentage">90%</span>
+                        <span class="skill-percentage">95%</span>
                     </div>
                     <div class="skill-item">
                         <div class="skill-icon"><i class="fab fa-js"></i></div>
@@ -141,7 +165,7 @@ include_once 'includes/header.php';
                         <div class="skill-bar">
                             <div class="skill-progress" style="width: 85%"></div>
                         </div>
-                        <span class="skill-percentage">85%</span>
+                        <span class="skill-percentage">80%</span>
                     </div>
                 </div>
             </div>

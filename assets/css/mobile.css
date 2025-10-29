@@ -57,15 +57,20 @@
         display: block;
         cursor: pointer;
         z-index: 1002;
+        position: relative;
+        width: 30px;
+        height: 30px;
+        padding: 10px;
     }
     
     .menu-toggle .bar {
-        width: 25px;
+        width: 30px;
         height: 3px;
         background-color: #fff;
-        margin: 5px 0;
+        margin: 6px 0;
         transition: 0.4s;
         display: block;
+        border-radius: 2px;
     }
     
     .menu-toggle.active .bar:nth-child(1) {

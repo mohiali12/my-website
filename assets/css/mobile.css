@@ -30,7 +30,7 @@
         right: -100%;
         width: 80%;
         height: 100vh;
-        background-color: #003135 !important; /* force same color as front page */
+        background-color: var(--bg-primary) !important; /* match primary background */
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -66,11 +66,25 @@
     .menu-toggle .bar {
         width: 30px;
         height: 3px;
-        background-color: #fff;
+        background-color: var(--text-on-primary);
         margin: 6px 0;
         transition: 0.4s;
         display: block;
         border-radius: 2px;
+    }
+
+    /* Mobile nav link colors on dark teal */
+    .nav-menu .nav-link {
+        color: var(--text-on-primary);
+    }
+
+    .nav-menu .nav-link:hover {
+        color: var(--accent);
+        background-color: rgba(255, 255, 255, 0.15);
+    }
+
+    .nav-menu .nav-link.active {
+        background-color: rgba(255, 255, 255, 0.1);
     }
     
     .menu-toggle.active .bar:nth-child(1) {

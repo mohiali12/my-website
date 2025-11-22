@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Fiverr">
+  <title>Fiverr</title>
+  <circle cx="64" cy="64" r="64" fill="#00b22d"/>
+  <!-- Simple "fi" monogram approximation in white -->
+  <g fill="#ffffff">
+    <!-- f -->
+    <rect x="34" y="36" width="18" height="56" rx="3"/>
+    <rect x="34" y="36" width="36" height="14" rx="3"/>
+    <rect x="48" y="58" width="22" height="14" rx="3"/>
+    <!-- i -->
+    <rect x="84" y="36" width="14" height="44" rx="3"/>
+    <circle cx="91" cy="30" r="8" fill="#ffffff"/>
+  </g>
+</svg>

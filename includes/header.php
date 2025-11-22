@@ -14,7 +14,7 @@
         <div class="container">
             <div class="header-content">
                 <div class="logo">
-                    <a href="index.php">MohsinVision</a>
+                    <a href="index.php">Mohsin Ali</a>
                 </div>
                 <nav class="nav-menu">
                     <ul class="nav-list">

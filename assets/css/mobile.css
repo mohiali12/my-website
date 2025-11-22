@@ -92,7 +92,7 @@
     }
     
     .hero-image {
-        margin-bottom: 20px;
+        margin-bottom: 10px;
     }
     
     .hero-image img {
@@ -133,11 +133,25 @@
         flex-direction: column;
         align-items: center;
     }
-    
+
     .hero-buttons .btn {
         margin: 10px 0;
         width: 100%;
         max-width: 250px;
+    }
+
+    /* Hero Social Buttons - Mobile (logo-only) */
+    .hero-social {
+        justify-content: center;
+        gap: 12px;
+        margin-top: 18px;
+    }
+
+    .hero-social .logo-btn {
+        width: 44px;
+        height: 44px;
+        border-radius: 50%;
+        font-size: 1.1rem;
     }
     
     /* About Section */

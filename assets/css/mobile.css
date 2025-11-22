@@ -30,7 +30,7 @@
         right: -100%;
         width: 80%;
         height: 100vh;
-        background-color: #003135;
+        background-color: #003135 !important; /* force same color as front page */
         display: flex;
         flex-direction: column;
         justify-content: center;
